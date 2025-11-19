@@ -11,3 +11,4 @@ timm
 einops
 accelerate
 kornia
+opencv-python-headless
