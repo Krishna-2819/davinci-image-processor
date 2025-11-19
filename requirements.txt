@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+Pillow
+numpy<2
+scipy
+torch
+torchvision
+transformers
+timm
+einops
+accelerate
