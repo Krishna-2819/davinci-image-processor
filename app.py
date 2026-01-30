@@ -23,7 +23,7 @@ st.set_page_config(
 )
 
 # Default constants
-DEFAULT_API_KEY = "sk-dfMwzaOYxgMv2m_eesW-tw"
+DEFAULT_API_KEY = ""
 BASE_URL = "https://litellm.dhhmena.com/"
 # Extended file support
 SUPPORTED_EXTENSIONS = ["png", "jpg", "jpeg", "webp", "avif", "jfif"]
@@ -404,3 +404,4 @@ elif processing_mode == "Batch (Local Files)":
                 mime="application/zip",
                 type="primary"
             )
+
