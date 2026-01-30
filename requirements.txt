@@ -1,6 +1,7 @@
 streamlit
 pandas
 requests
-Pillow
+pillow
 pillow-avif-plugin
 openai
+openpyxl
